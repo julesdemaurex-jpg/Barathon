@@ -10,7 +10,7 @@
 //    2. anon/public  → dans SUPABASE_ANON_KEY
 //
 // ================================================================
-const SUPABASE_URL = 'https://dorrbczimlxywprqrugb.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://dorrbczimlxywprqrugb.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRvcnJiY3ppbWx4eXdwcnFydWdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ0NTM4NzYsImV4cCI6MjEwMDAyOTg3Nn0.P1HUloUS5iwjeFQqQv2gUBSA6aCszUGmxCbBCFKDHH0';
 
 // ================================================================
